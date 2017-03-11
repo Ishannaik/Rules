@@ -1,0 +1,20 @@
+---
+0: '*Show check rule Reminder on Join'
+reminder: "false"
+reminder-msg: §6Don't Forget to Check Rules!
+1: '*Player Rules = pr'
+pr1: §a- No swear
+pr2: §a- Asking for op is annoying for staffs..
+pr3: §a- Hacking will get you a Big fat BAN!
+pr4: §a- Do not use RivalCraft as a dating service!
+pr5: §a- Report hackers by /mail Az528 {message}
+pr6: §a- And Mostly Have fun!
+2: '*Staff Rules = sr'
+sr1: §a- old rules apply
+sr2: §a- none
+sr3: §a- none
+sr4: §a- none
+sr5: §a- none
+sr6: §a- none
+3: '**NOTE Adding more pr or sr is not recommended!'
+...
